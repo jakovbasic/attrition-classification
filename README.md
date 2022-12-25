@@ -1,3 +1,6 @@
 # attrition-classification
-My machine learning course project.
-This project was done in pairs.
+Machine learning course project.
+
+My partner in this project:
+Otto Lahdensivu
+otto.lahdensivu@aalto.fi
